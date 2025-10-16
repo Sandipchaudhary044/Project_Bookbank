@@ -1,0 +1,24 @@
+/bookbank
+├── admin/
+│   ├── dashboard.php
+│   ├── donations.php
+│   └── borrows.php
+├── assets/
+│   └── images/
+│       └── logo.png  (Place your logo here)
+├── includes/
+│   ├── db.php
+│   ├── header.php
+│   └── footer.php
+├── index.php
+├── available_books.php
+├── register.php
+├── login.php
+├── logout.php
+├── donate.php
+├── my_account.php
+├── request_borrow.php
+└── process_request.php
+
+📧 Email: admin@bookbank.com
+🔑 Password: admin123

@@ -1,0 +1,38 @@
+/bookbank
+├── admin/
+│   ├── dashboard.php
+│   ├── donations.php
+│   └── borrows.php
+├── assets/
+│   └── images/
+│       └── logo.png  (Place your logo here)
+├── includes/
+│   ├── db.php
+│   ├── header.php
+│   └── footer.php
+├── index.php
+├── available_books.php
+├── register.php
+├── login.php
+├── logout.php
+├── donate.php
+├── my_account.php
+├── request_borrow.php
+└── process_request.php
+
+
+3. How to Run and Next Steps
+Place Files: Ensure all files are in the bookbank directory as structured above.
+
+Start Server: Start Apache and MySQL in your XAMPP/MAMP control panel.
+
+Access Project: Open your web browser and navigate to http://localhost/bookbank.
+
+Admin Login: Log in with the credentials admin@bookbank.com and admin123.
+
+Test: Register new users, donate books, approve them from the admin panel, and test the borrowing workflow.
+
+✅ Existing admin(s) deleted.
+✅ New admin created:
+📧 Email: admin@bookbank.com
+🔑 Password: admin123
